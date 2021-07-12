@@ -1,5 +1,5 @@
-FROM python:3.10-alpine
-MAINTAINER Hasib Rajin
+FROM python:3.7-alpine
+MAINTAINER London App Developer Ltd.
 
 ENV PYTHONUNBUFFERED 1
 
